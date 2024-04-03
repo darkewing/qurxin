@@ -9,7 +9,7 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/fikrado/qurxin
+git clone https://github.com/darkewing/qurxin
 cd qurxin
 chmod +x *
 sh install.sh
